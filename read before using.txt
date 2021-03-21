@@ -1,0 +1,26 @@
+dear redditors (male), dear redditors (female);
+i finished this masterpiece after 2 long days of no-stop work.
+pls understand that i am a web developer and that the first time using pyhton so hope it explains that i
+take extra-time coding this project.
+
+requirement: install selenuim by writing "pip install selenuim" command on terminal after installing "pyhton".
+the chromedriver is already installed but if you are using another chrome version (not the Chrome 89 version) pls install
+your chrome driver here :: https://chromedriver.chromium.org/downloads
+____________________________usage______________________________
+usage is kinda easy, you should replace the "replace me i am useless" text in the code of each file 
+with the target mail adress, and the username in the gaysite;.py file.
+if there is some bugs or questions or suggestions of links pls email me on med.amine.ennouri1@gmail.com, or on disord 
+med amine ennouri#1788
+hope you guys liked the script.
+exams are on july, wish me luck (*￣3￣)╭
+
+and pls mind supporting me by donating to thoose adresses:
+
+# BITCOIN: bc1qne5um5g8yw87jvet20yt8yvkkkzxjhazmvavda
+# DOGECOIN (to the moon btw): DSAbPC7hPmYWUuAPffRvzTWEDDnTab9C42
+# LITECOIN:LRHnRj92ngfC4Fo2R2ZArNSTZ9qkjDmQm9
+
+
+
+product 100% tunisian :D .
+
