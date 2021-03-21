@@ -1,8 +1,12 @@
 # forredditors
-the project that 1.9k redditors reclamed me to do, everything on the txt file.
+the project that 1.9k redditors reclamed me to do. 
+
+Everything u should know is on the txt file.
 
 
-litellary have nothing to say since everything is on the .txt file put a star and follow me on github.
+litellary have nothing to say since everything is on the .txt file
+
+ put a star and follow me on github.
 
 
 /DONATE, support:/
