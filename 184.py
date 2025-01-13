@@ -11,7 +11,7 @@
 
 from selenium import webdriver
 driver= webdriver.Chrome("chromedriver.exe")
-TARGET = 'replace me i am usless' #replace the text 'replace me i am useless" with the target email
+TARGET = 'charles.m.wilkins@gmail.com' #replace the text 'replace me i am useless" with the target email
 driver.get('https://www.crosswalk.com/newsletters/')
 
 user_input = driver.find_element_by_xpath('/html/body/div[3]/div[4]/div/div[1]/div/div/div/div/div/div/div[1]/input[2]')
